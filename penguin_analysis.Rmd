@@ -1,0 +1,14 @@
+
+
+
+```{r}
+library(here)
+library(palmerpenguins)
+library(tidyverse)
+```
+
+```{r}
+penguins_clean <- clean_names(penguins_raw)
+
+colnames(penguins_clean)
+```

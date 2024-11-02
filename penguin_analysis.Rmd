@@ -5,10 +5,26 @@
 library(here)
 library(palmerpenguins)
 library(tidyverse)
+
 ```
 
 ```{r}
-penguins_clean <- clean_names(penguins_raw)
+penguins_clean <- clean_names(penguins_raw) 
 
 colnames(penguins_clean)
 ```
+
+```{r}
+penguins_clean.head((((((()))))))
+
+penguins_raw.tail()
+
+
+clean_columns()
+
+```
+
+```{r}
+
+```
+

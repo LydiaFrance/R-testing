@@ -17,6 +17,10 @@ colnames(penguins_clean)
 ```{r}
 penguins_clean.head((((((()))))))
 
+penguins_raw.tail()
+
+
+clean_columns()
 
 ```
 
